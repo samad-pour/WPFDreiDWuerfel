@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFDreiDWuerfel", "WPFDreiDWuerfel\WPFDreiDWuerfel.csproj", "{CC81116E-838E-4E5B-826B-E9F02273597C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC81116E-838E-4E5B-826B-E9F02273597C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC81116E-838E-4E5B-826B-E9F02273597C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC81116E-838E-4E5B-826B-E9F02273597C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC81116E-838E-4E5B-826B-E9F02273597C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F54AA3B6-35E7-4AD9-9F58-367E52980410}
+	EndGlobalSection
+EndGlobal
